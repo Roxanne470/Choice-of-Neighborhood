@@ -1,4 +1,4 @@
-## K-Means Classification Project
+## K-Means Clustering Project
 
 
 -- The goal is to use geospatial data of Toronto neighborhoods and Vancouver neighborhoods as well as the venue data obtained using Foursqaure API to explore venue categories in different neighborhoods. <br/>
